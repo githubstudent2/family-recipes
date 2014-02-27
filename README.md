@@ -1,6 +1,6 @@
 # Family Recipes
 
-This repository is a collection of food recipies.
+This repository is a collection of food recipes.
 
 
 ## Author
